@@ -17,7 +17,7 @@ This project delves into **Mechanistic Interpretability**, a critical field in A
 
 ---
 
-## 📊 Key Results: Visualized Neuron Feature
+##  Key Results: Visualized Neuron Feature
 
 The image below is the result of optimizing an input image to maximally activate the chosen neuron over 400 iterations.
 
